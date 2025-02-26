@@ -1,0 +1,2126 @@
+[
+  {
+    "name": "Hydrogen",
+    "symbol": "H",
+    "atomicNumber": "1",
+    "atomicMass": "[k]",
+    "description": "Hydrogen (H) is an element with atomic number 1. It belongs to the 1 category.",
+    "reactive": "non-reactive",
+    "category": "1",
+    "properties": {
+      "category": "1",
+      "phase": "s-block",
+      "state": "1.0080",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[k]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 1 category and is typically found in s-block phase under standard conditions. It is considered a 1.0080, and its atomic mass is approximately [k]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/30820838/pexels-photo-30820838.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Helium",
+    "symbol": "He",
+    "atomicNumber": "2",
+    "atomicMass": "[l]",
+    "description": "Helium (He) is an element with atomic number 2. It belongs to the 18 category.",
+    "reactive": "non-reactive",
+    "category": "18",
+    "properties": {
+      "category": "18",
+      "phase": "s-block",
+      "state": "4.0026",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[l]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 18 category and is typically found in s-block phase under standard conditions. It is considered a 4.0026, and its atomic mass is approximately [l]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/772478/pexels-photo-772478.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Lithium",
+    "symbol": "Li",
+    "atomicNumber": "3",
+    "atomicMass": "[n]",
+    "description": "Lithium (Li) is an element with atomic number 3. It belongs to the 1 category.",
+    "reactive": "non-reactive",
+    "category": "1",
+    "properties": {
+      "category": "1",
+      "phase": "s-block",
+      "state": "6.94",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[n]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 1 category and is typically found in s-block phase under standard conditions. It is considered a 6.94, and its atomic mass is approximately [n]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/19810744/pexels-photo-19810744.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Beryllium",
+    "symbol": "Be",
+    "atomicNumber": "4",
+    "atomicMass": "[o]",
+    "description": "Beryllium (Be) is an element with atomic number 4. It belongs to the 2 category.",
+    "reactive": "non-reactive",
+    "category": "2",
+    "properties": {
+      "category": "2",
+      "phase": "s-block",
+      "state": "9.0122",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[o]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 2 category and is typically found in s-block phase under standard conditions. It is considered a 9.0122, and its atomic mass is approximately [o]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/5554416/pexels-photo-5554416.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Boron",
+    "symbol": "B",
+    "atomicNumber": "5",
+    "atomicMass": "[p]",
+    "description": "Boron (B) is an element with atomic number 5. It belongs to the 13 category.",
+    "reactive": "non-reactive",
+    "category": "13",
+    "properties": {
+      "category": "13",
+      "phase": "p-block",
+      "state": "10.81",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[p]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 13 category and is typically found in p-block phase under standard conditions. It is considered a 10.81, and its atomic mass is approximately [p]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/7948000/pexels-photo-7948000.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Carbon",
+    "symbol": "C",
+    "atomicNumber": "6",
+    "atomicMass": "[q]",
+    "description": "Carbon (C) is an element with atomic number 6. It belongs to the 14 category.",
+    "reactive": "non-reactive",
+    "category": "14",
+    "properties": {
+      "category": "14",
+      "phase": "p-block",
+      "state": "12.011",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[q]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 14 category and is typically found in p-block phase under standard conditions. It is considered a 12.011, and its atomic mass is approximately [q]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/48884/carbon-black-charcoal-grill-briquettes-48884.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Nitrogen",
+    "symbol": "N",
+    "atomicNumber": "7",
+    "atomicMass": "[r]",
+    "description": "Nitrogen (N) is an element with atomic number 7. It belongs to the 15 category.",
+    "reactive": "non-reactive",
+    "category": "15",
+    "properties": {
+      "category": "15",
+      "phase": "p-block",
+      "state": "14.007",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[r]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 15 category and is typically found in p-block phase under standard conditions. It is considered a 14.007, and its atomic mass is approximately [r]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/159291/beer-machine-alcohol-brewery-159291.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Oxygen",
+    "symbol": "O",
+    "atomicNumber": "8",
+    "atomicMass": "[s]",
+    "description": "Oxygen (O) is an element with atomic number 8. It belongs to the 16 category.",
+    "reactive": "non-reactive",
+    "category": "16",
+    "properties": {
+      "category": "16",
+      "phase": "p-block",
+      "state": "15.999",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[s]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 16 category and is typically found in p-block phase under standard conditions. It is considered a 15.999, and its atomic mass is approximately [s]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/2280549/pexels-photo-2280549.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Fluorine",
+    "symbol": "F",
+    "atomicNumber": "9",
+    "atomicMass": "[t]",
+    "description": "Fluorine (F) is an element with atomic number 9. It belongs to the 17 category.",
+    "reactive": "non-reactive",
+    "category": "17",
+    "properties": {
+      "category": "17",
+      "phase": "p-block",
+      "state": "18.998",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[t]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 17 category and is typically found in p-block phase under standard conditions. It is considered a 18.998, and its atomic mass is approximately [t]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/13717777/pexels-photo-13717777.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Neon",
+    "symbol": "Ne",
+    "atomicNumber": "10",
+    "atomicMass": "[u]",
+    "description": "Neon (Ne) is an element with atomic number 10. It belongs to the 18 category.",
+    "reactive": "non-reactive",
+    "category": "18",
+    "properties": {
+      "category": "18",
+      "phase": "p-block",
+      "state": "20.180",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[u]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 18 category and is typically found in p-block phase under standard conditions. It is considered a 20.180, and its atomic mass is approximately [u]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/5411700/pexels-photo-5411700.png?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Sodium",
+    "symbol": "Na",
+    "atomicNumber": "11",
+    "atomicMass": "[v]",
+    "description": "Sodium (Na) is an element with atomic number 11. It belongs to the 1 category.",
+    "reactive": "non-reactive",
+    "category": "1",
+    "properties": {
+      "category": "1",
+      "phase": "s-block",
+      "state": "22.990",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[v]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 1 category and is typically found in s-block phase under standard conditions. It is considered a 22.990, and its atomic mass is approximately [v]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/3693294/pexels-photo-3693294.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Magnesium",
+    "symbol": "Mg",
+    "atomicNumber": "12",
+    "atomicMass": "[w]",
+    "description": "Magnesium (Mg) is an element with atomic number 12. It belongs to the 2 category.",
+    "reactive": "non-reactive",
+    "category": "2",
+    "properties": {
+      "category": "2",
+      "phase": "s-block",
+      "state": "24.305",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[w]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 2 category and is typically found in s-block phase under standard conditions. It is considered a 24.305, and its atomic mass is approximately [w]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/12847820/pexels-photo-12847820.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Aluminium",
+    "symbol": "Al",
+    "atomicNumber": "13",
+    "atomicMass": "[x]",
+    "description": "Aluminium (Al) is an element with atomic number 13. It belongs to the 13 category.",
+    "reactive": "non-reactive",
+    "category": "13",
+    "properties": {
+      "category": "13",
+      "phase": "p-block",
+      "state": "26.982",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[x]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 13 category and is typically found in p-block phase under standard conditions. It is considered a 26.982, and its atomic mass is approximately [x]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/459572/pexels-photo-459572.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Silicon",
+    "symbol": "Si",
+    "atomicNumber": "14",
+    "atomicMass": "[y]",
+    "description": "Silicon (Si) is an element with atomic number 14. It belongs to the 14 category.",
+    "reactive": "non-reactive",
+    "category": "14",
+    "properties": {
+      "category": "14",
+      "phase": "p-block",
+      "state": "28.085",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[y]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 14 category and is typically found in p-block phase under standard conditions. It is considered a 28.085, and its atomic mass is approximately [y]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/163125/board-printed-circuit-board-computer-electronics-163125.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Phosphorus",
+    "symbol": "P",
+    "atomicNumber": "15",
+    "atomicMass": "[z]",
+    "description": "Phosphorus (P) is an element with atomic number 15. It belongs to the 15 category.",
+    "reactive": "non-reactive",
+    "category": "15",
+    "properties": {
+      "category": "15",
+      "phase": "p-block",
+      "state": "30.974",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[z]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 15 category and is typically found in p-block phase under standard conditions. It is considered a 30.974, and its atomic mass is approximately [z]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/66270/match-lighter-matches-sticks-66270.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Sulfur",
+    "symbol": "S",
+    "atomicNumber": "16",
+    "atomicMass": "[aa]",
+    "description": "Sulfur (S) is an element with atomic number 16. It belongs to the 16 category.",
+    "reactive": "non-reactive",
+    "category": "16",
+    "properties": {
+      "category": "16",
+      "phase": "p-block",
+      "state": "32.06",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[aa]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 16 category and is typically found in p-block phase under standard conditions. It is considered a 32.06, and its atomic mass is approximately [aa]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/66270/match-lighter-matches-sticks-66270.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Chlorine",
+    "symbol": "Cl",
+    "atomicNumber": "17",
+    "atomicMass": "[ab]",
+    "description": "Chlorine (Cl) is an element with atomic number 17. It belongs to the 17 category.",
+    "reactive": "non-reactive",
+    "category": "17",
+    "properties": {
+      "category": "17",
+      "phase": "p-block",
+      "state": "35.45",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[ab]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 17 category and is typically found in p-block phase under standard conditions. It is considered a 35.45, and its atomic mass is approximately [ab]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/711187/pexels-photo-711187.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Argon",
+    "symbol": "Ar",
+    "atomicNumber": "18",
+    "atomicMass": "[ac]",
+    "description": "Argon (Ar) is an element with atomic number 18. It belongs to the 18 category.",
+    "reactive": "non-reactive",
+    "category": "18",
+    "properties": {
+      "category": "18",
+      "phase": "p-block",
+      "state": "39.95",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[ac]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 18 category and is typically found in p-block phase under standard conditions. It is considered a 39.95, and its atomic mass is approximately [ac]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/7465572/pexels-photo-7465572.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Potassium",
+    "symbol": "K",
+    "atomicNumber": "19",
+    "atomicMass": "[ad]",
+    "description": "Potassium (K) is an element with atomic number 19. It belongs to the 1 category.",
+    "reactive": "non-reactive",
+    "category": "1",
+    "properties": {
+      "category": "1",
+      "phase": "s-block",
+      "state": "39.098",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[ad]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 1 category and is typically found in s-block phase under standard conditions. It is considered a 39.098, and its atomic mass is approximately [ad]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/2872755/pexels-photo-2872755.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Calcium",
+    "symbol": "Ca",
+    "atomicNumber": "20",
+    "atomicMass": "[ae]",
+    "description": "Calcium (Ca) is an element with atomic number 20. It belongs to the 2 category.",
+    "reactive": "non-reactive",
+    "category": "2",
+    "properties": {
+      "category": "2",
+      "phase": "s-block",
+      "state": "40.078",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[ae]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 2 category and is typically found in s-block phase under standard conditions. It is considered a 40.078, and its atomic mass is approximately [ae]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/236010/pexels-photo-236010.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Scandium",
+    "symbol": "Sc",
+    "atomicNumber": "21",
+    "atomicMass": "[af]",
+    "description": "Scandium (Sc) is an element with atomic number 21. It belongs to the 3 category.",
+    "reactive": "non-reactive",
+    "category": "3",
+    "properties": {
+      "category": "3",
+      "phase": "d-block",
+      "state": "44.956",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[af]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 3 category and is typically found in d-block phase under standard conditions. It is considered a 44.956, and its atomic mass is approximately [af]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRizSNk86pMTCqv6pBsrrekJYT2SmUCocn7Zg&s"
+  },
+  {
+    "name": "Titanium",
+    "symbol": "Ti",
+    "atomicNumber": "22",
+    "atomicMass": "[ag]",
+    "description": "Titanium (Ti) is an element with atomic number 22. It belongs to the 4 category.",
+    "reactive": "non-reactive",
+    "category": "4",
+    "properties": {
+      "category": "4",
+      "phase": "d-block",
+      "state": "47.867",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[ag]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 4 category and is typically found in d-block phase under standard conditions. It is considered a 47.867, and its atomic mass is approximately [ag]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/3678501/pexels-photo-3678501.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Vanadium",
+    "symbol": "V",
+    "atomicNumber": "23",
+    "atomicMass": "[ah]",
+    "description": "Vanadium (V) is an element with atomic number 23. It belongs to the 5 category.",
+    "reactive": "non-reactive",
+    "category": "5",
+    "properties": {
+      "category": "5",
+      "phase": "d-block",
+      "state": "50.942",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[ah]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 5 category and is typically found in d-block phase under standard conditions. It is considered a 50.942, and its atomic mass is approximately [ah]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/175039/pexels-photo-175039.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Chromium",
+    "symbol": "Cr",
+    "atomicNumber": "24",
+    "atomicMass": "[ai]",
+    "description": "Chromium (Cr) is an element with atomic number 24. It belongs to the 6 category.",
+    "reactive": "non-reactive",
+    "category": "6",
+    "properties": {
+      "category": "6",
+      "phase": "d-block",
+      "state": "51.996",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[ai]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 6 category and is typically found in d-block phase under standard conditions. It is considered a 51.996, and its atomic mass is approximately [ai]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/195643/pexels-photo-195643.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Manganese",
+    "symbol": "Mn",
+    "atomicNumber": "25",
+    "atomicMass": "[aj]",
+    "description": "Manganese (Mn) is an element with atomic number 25. It belongs to the 7 category.",
+    "reactive": "non-reactive",
+    "category": "7",
+    "properties": {
+      "category": "7",
+      "phase": "d-block",
+      "state": "54.938",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[aj]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 7 category and is typically found in d-block phase under standard conditions. It is considered a 54.938, and its atomic mass is approximately [aj]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/10432471/pexels-photo-10432471.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Iron",
+    "symbol": "Fe",
+    "atomicNumber": "26",
+    "atomicMass": "[ak]",
+    "description": "Iron (Fe) is an element with atomic number 26. It belongs to the 8 category.",
+    "reactive": "non-reactive",
+    "category": "8",
+    "properties": {
+      "category": "8",
+      "phase": "d-block",
+      "state": "55.845",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[ak]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 8 category and is typically found in d-block phase under standard conditions. It is considered a 55.845, and its atomic mass is approximately [ak]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/53422/ironing-iron-press-clothing-53422.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Cobalt",
+    "symbol": "Co",
+    "atomicNumber": "27",
+    "atomicMass": "[al]",
+    "description": "Cobalt (Co) is an element with atomic number 27. It belongs to the 9 category.",
+    "reactive": "non-reactive",
+    "category": "9",
+    "properties": {
+      "category": "9",
+      "phase": "d-block",
+      "state": "58.933",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[al]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 9 category and is typically found in d-block phase under standard conditions. It is considered a 58.933, and its atomic mass is approximately [al]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/5734656/pexels-photo-5734656.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Nickel",
+    "symbol": "Ni",
+    "atomicNumber": "28",
+    "atomicMass": "[am]",
+    "description": "Nickel (Ni) is an element with atomic number 28. It belongs to the 10 category.",
+    "reactive": "non-reactive",
+    "category": "10",
+    "properties": {
+      "category": "10",
+      "phase": "d-block",
+      "state": "58.693",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[am]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 10 category and is typically found in d-block phase under standard conditions. It is considered a 58.693, and its atomic mass is approximately [am]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/3833052/pexels-photo-3833052.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Copper",
+    "symbol": "Cu",
+    "atomicNumber": "29",
+    "atomicMass": "[an]",
+    "description": "Copper (Cu) is an element with atomic number 29. It belongs to the 11 category.",
+    "reactive": "non-reactive",
+    "category": "11",
+    "properties": {
+      "category": "11",
+      "phase": "d-block",
+      "state": "63.546",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[an]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 11 category and is typically found in d-block phase under standard conditions. It is considered a 63.546, and its atomic mass is approximately [an]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/830926/pexels-photo-830926.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Zinc",
+    "symbol": "Zn",
+    "atomicNumber": "30",
+    "atomicMass": "[ao]",
+    "description": "Zinc (Zn) is an element with atomic number 30. It belongs to the 12 category.",
+    "reactive": "non-reactive",
+    "category": "12",
+    "properties": {
+      "category": "12",
+      "phase": "d-block",
+      "state": "65.38",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[ao]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 12 category and is typically found in d-block phase under standard conditions. It is considered a 65.38, and its atomic mass is approximately [ao]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/6485438/pexels-photo-6485438.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Gallium",
+    "symbol": "Ga",
+    "atomicNumber": "31",
+    "atomicMass": "[ap]",
+    "description": "Gallium (Ga) is an element with atomic number 31. It belongs to the 13 category.",
+    "reactive": "non-reactive",
+    "category": "13",
+    "properties": {
+      "category": "13",
+      "phase": "p-block",
+      "state": "69.723",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[ap]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 13 category and is typically found in p-block phase under standard conditions. It is considered a 69.723, and its atomic mass is approximately [ap]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/13897475/pexels-photo-13897475.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Germanium",
+    "symbol": "Ge",
+    "atomicNumber": "32",
+    "atomicMass": "[aq]",
+    "description": "Germanium (Ge) is an element with atomic number 32. It belongs to the 14 category.",
+    "reactive": "non-reactive",
+    "category": "14",
+    "properties": {
+      "category": "14",
+      "phase": "p-block",
+      "state": "72.630",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[aq]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 14 category and is typically found in p-block phase under standard conditions. It is considered a 72.630, and its atomic mass is approximately [aq]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/5151420/pexels-photo-5151420.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Arsenic",
+    "symbol": "As",
+    "atomicNumber": "33",
+    "atomicMass": "[ar]",
+    "description": "Arsenic (As) is an element with atomic number 33. It belongs to the 15 category.",
+    "reactive": "non-reactive",
+    "category": "15",
+    "properties": {
+      "category": "15",
+      "phase": "p-block",
+      "state": "74.922",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[ar]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 15 category and is typically found in p-block phase under standard conditions. It is considered a 74.922, and its atomic mass is approximately [ar]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/4114966/pexels-photo-4114966.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Selenium",
+    "symbol": "Se",
+    "atomicNumber": "34",
+    "atomicMass": "[at]",
+    "description": "Selenium (Se) is an element with atomic number 34. It belongs to the 16 category.",
+    "reactive": "non-reactive",
+    "category": "16",
+    "properties": {
+      "category": "16",
+      "phase": "p-block",
+      "state": "78.971",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[at]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 16 category and is typically found in p-block phase under standard conditions. It is considered a 78.971, and its atomic mass is approximately [at]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/21299251/pexels-photo-21299251.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Bromine",
+    "symbol": "Br",
+    "atomicNumber": "35",
+    "atomicMass": "[au]",
+    "description": "Bromine (Br) is an element with atomic number 35. It belongs to the 17 category.",
+    "reactive": "non-reactive",
+    "category": "17",
+    "properties": {
+      "category": "17",
+      "phase": "p-block",
+      "state": "79.904",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[au]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 17 category and is typically found in p-block phase under standard conditions. It is considered a 79.904, and its atomic mass is approximately [au]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtfZqHtFXmm55LZFUBsdhAF7PPVfSxetldDw&s"
+  },
+  {
+    "name": "Krypton",
+    "symbol": "Kr",
+    "atomicNumber": "36",
+    "atomicMass": "[av]",
+    "description": "Krypton (Kr) is an element with atomic number 36. It belongs to the 18 category.",
+    "reactive": "non-reactive",
+    "category": "18",
+    "properties": {
+      "category": "18",
+      "phase": "p-block",
+      "state": "83.798",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[av]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 18 category and is typically found in p-block phase under standard conditions. It is considered a 83.798, and its atomic mass is approximately [av]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSddEjhD9_YZOLpDvU5RsUDzQN-Uk6WMUT7qA&s"
+  },
+  {
+    "name": "Rubidium",
+    "symbol": "Rb",
+    "atomicNumber": "37",
+    "atomicMass": "[aw]",
+    "description": "Rubidium (Rb) is an element with atomic number 37. It belongs to the 1 category.",
+    "reactive": "non-reactive",
+    "category": "1",
+    "properties": {
+      "category": "1",
+      "phase": "s-block",
+      "state": "85.468",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[aw]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 1 category and is typically found in s-block phase under standard conditions. It is considered a 85.468, and its atomic mass is approximately [aw]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhFm5E7M8umtBzsnIaN22wTETPZuRNMmGKPg&s"
+  },
+  {
+    "name": "Strontium",
+    "symbol": "Sr",
+    "atomicNumber": "38",
+    "atomicMass": "[ax]",
+    "description": "Strontium (Sr) is an element with atomic number 38. It belongs to the 2 category.",
+    "reactive": "non-reactive",
+    "category": "2",
+    "properties": {
+      "category": "2",
+      "phase": "s-block",
+      "state": "87.62",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[ax]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 2 category and is typically found in s-block phase under standard conditions. It is considered a 87.62, and its atomic mass is approximately [ax]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkuPNahy7yUaUW9EYqtWzBWq2phiJYF8xcNQ&s"
+  },
+  {
+    "name": "Yttrium",
+    "symbol": "Y",
+    "atomicNumber": "39",
+    "atomicMass": "[ay]",
+    "description": "Yttrium (Y) is an element with atomic number 39. It belongs to the 3 category.",
+    "reactive": "non-reactive",
+    "category": "3",
+    "properties": {
+      "category": "3",
+      "phase": "d-block",
+      "state": "88.906",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[ay]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 3 category and is typically found in d-block phase under standard conditions. It is considered a 88.906, and its atomic mass is approximately [ay]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Zirconium",
+    "symbol": "Zr",
+    "atomicNumber": "40",
+    "atomicMass": "[az]",
+    "description": "Zirconium (Zr) is an element with atomic number 40. It belongs to the 4 category.",
+    "reactive": "non-reactive",
+    "category": "4",
+    "properties": {
+      "category": "4",
+      "phase": "d-block",
+      "state": "91.224",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[az]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 4 category and is typically found in d-block phase under standard conditions. It is considered a 91.224, and its atomic mass is approximately [az]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Niobium",
+    "symbol": "Nb",
+    "atomicNumber": "41",
+    "atomicMass": "[ba]",
+    "description": "Niobium (Nb) is an element with atomic number 41. It belongs to the 5 category.",
+    "reactive": "non-reactive",
+    "category": "5",
+    "properties": {
+      "category": "5",
+      "phase": "d-block",
+      "state": "92.906",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[ba]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 5 category and is typically found in d-block phase under standard conditions. It is considered a 92.906, and its atomic mass is approximately [ba]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Molybdenum",
+    "symbol": "Mo",
+    "atomicNumber": "42",
+    "atomicMass": "[bb]",
+    "description": "Molybdenum (Mo) is an element with atomic number 42. It belongs to the 6 category.",
+    "reactive": "non-reactive",
+    "category": "6",
+    "properties": {
+      "category": "6",
+      "phase": "d-block",
+      "state": "95.95",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[bb]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 6 category and is typically found in d-block phase under standard conditions. It is considered a 95.95, and its atomic mass is approximately [bb]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Technetium",
+    "symbol": "Tc",
+    "atomicNumber": "43",
+    "atomicMass": "[bc]",
+    "description": "Technetium (Tc) is an element with atomic number 43. It belongs to the 7 category.",
+    "reactive": "non-reactive",
+    "category": "7",
+    "properties": {
+      "category": "7",
+      "phase": "d-block",
+      "state": "[97]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[bc]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 7 category and is typically found in d-block phase under standard conditions. It is considered a [97], and its atomic mass is approximately [bc]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Ruthenium",
+    "symbol": "Ru",
+    "atomicNumber": "44",
+    "atomicMass": "[bd]",
+    "description": "Ruthenium (Ru) is an element with atomic number 44. It belongs to the 8 category.",
+    "reactive": "non-reactive",
+    "category": "8",
+    "properties": {
+      "category": "8",
+      "phase": "d-block",
+      "state": "101.07",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[bd]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 8 category and is typically found in d-block phase under standard conditions. It is considered a 101.07, and its atomic mass is approximately [bd]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Rhodium",
+    "symbol": "Rh",
+    "atomicNumber": "45",
+    "atomicMass": "[be]",
+    "description": "Rhodium (Rh) is an element with atomic number 45. It belongs to the 9 category.",
+    "reactive": "non-reactive",
+    "category": "9",
+    "properties": {
+      "category": "9",
+      "phase": "d-block",
+      "state": "102.91",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[be]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 9 category and is typically found in d-block phase under standard conditions. It is considered a 102.91, and its atomic mass is approximately [be]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/19012466/pexels-photo-19012466.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Palladium",
+    "symbol": "Pd",
+    "atomicNumber": "46",
+    "atomicMass": "[bf]",
+    "description": "Palladium (Pd) is an element with atomic number 46. It belongs to the 10 category.",
+    "reactive": "non-reactive",
+    "category": "10",
+    "properties": {
+      "category": "10",
+      "phase": "d-block",
+      "state": "106.42",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[bf]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 10 category and is typically found in d-block phase under standard conditions. It is considered a 106.42, and its atomic mass is approximately [bf]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/27866564/pexels-photo-27866564.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Silver",
+    "symbol": "Ag",
+    "atomicNumber": "47",
+    "atomicMass": "[bg]",
+    "description": "Silver (Ag) is an element with atomic number 47. It belongs to the 11 category.",
+    "reactive": "non-reactive",
+    "category": "11",
+    "properties": {
+      "category": "11",
+      "phase": "d-block",
+      "state": "107.87",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[bg]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 11 category and is typically found in d-block phase under standard conditions. It is considered a 107.87, and its atomic mass is approximately [bg]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/1022928/pexels-photo-1022928.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Cadmium",
+    "symbol": "Cd",
+    "atomicNumber": "48",
+    "atomicMass": "[bh]",
+    "description": "Cadmium (Cd) is an element with atomic number 48. It belongs to the 12 category.",
+    "reactive": "non-reactive",
+    "category": "12",
+    "properties": {
+      "category": "12",
+      "phase": "d-block",
+      "state": "112.41",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[bh]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 12 category and is typically found in d-block phase under standard conditions. It is considered a 112.41, and its atomic mass is approximately [bh]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/8158021/pexels-photo-8158021.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Indium",
+    "symbol": "In",
+    "atomicNumber": "49",
+    "atomicMass": "[bi]",
+    "description": "Indium (In) is an element with atomic number 49. It belongs to the 13 category.",
+    "reactive": "non-reactive",
+    "category": "13",
+    "properties": {
+      "category": "13",
+      "phase": "p-block",
+      "state": "114.82",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[bi]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 13 category and is typically found in p-block phase under standard conditions. It is considered a 114.82, and its atomic mass is approximately [bi]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/30858425/pexels-photo-30858425.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Tin",
+    "symbol": "Sn",
+    "atomicNumber": "50",
+    "atomicMass": "[bj]",
+    "description": "Tin (Sn) is an element with atomic number 50. It belongs to the 14 category.",
+    "reactive": "non-reactive",
+    "category": "14",
+    "properties": {
+      "category": "14",
+      "phase": "p-block",
+      "state": "118.71",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[bj]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 14 category and is typically found in p-block phase under standard conditions. It is considered a 118.71, and its atomic mass is approximately [bj]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/1003103/pexels-photo-1003103.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Antimony",
+    "symbol": "Sb",
+    "atomicNumber": "51",
+    "atomicMass": "[bk]",
+    "description": "Antimony (Sb) is an element with atomic number 51. It belongs to the 15 category.",
+    "reactive": "non-reactive",
+    "category": "15",
+    "properties": {
+      "category": "15",
+      "phase": "p-block",
+      "state": "121.76",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[bk]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 15 category and is typically found in p-block phase under standard conditions. It is considered a 121.76, and its atomic mass is approximately [bk]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Tellurium",
+    "symbol": "Te",
+    "atomicNumber": "52",
+    "atomicMass": "[bl]",
+    "description": "Tellurium (Te) is an element with atomic number 52. It belongs to the 16 category.",
+    "reactive": "non-reactive",
+    "category": "16",
+    "properties": {
+      "category": "16",
+      "phase": "p-block",
+      "state": "127.60",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[bl]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 16 category and is typically found in p-block phase under standard conditions. It is considered a 127.60, and its atomic mass is approximately [bl]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Iodine",
+    "symbol": "I",
+    "atomicNumber": "53",
+    "atomicMass": "[bm]",
+    "description": "Iodine (I) is an element with atomic number 53. It belongs to the 17 category.",
+    "reactive": "non-reactive",
+    "category": "17",
+    "properties": {
+      "category": "17",
+      "phase": "p-block",
+      "state": "126.90",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[bm]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 17 category and is typically found in p-block phase under standard conditions. It is considered a 126.90, and its atomic mass is approximately [bm]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/9755606/pexels-photo-9755606.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Xenon",
+    "symbol": "Xe",
+    "atomicNumber": "54",
+    "atomicMass": "[bn]",
+    "description": "Xenon (Xe) is an element with atomic number 54. It belongs to the 18 category.",
+    "reactive": "non-reactive",
+    "category": "18",
+    "properties": {
+      "category": "18",
+      "phase": "p-block",
+      "state": "131.29",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[bn]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 18 category and is typically found in p-block phase under standard conditions. It is considered a 131.29, and its atomic mass is approximately [bn]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/10186705/pexels-photo-10186705.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Caesium",
+    "symbol": "Cs",
+    "atomicNumber": "55",
+    "atomicMass": "[bo]",
+    "description": "Caesium (Cs) is an element with atomic number 55. It belongs to the 1 category.",
+    "reactive": "non-reactive",
+    "category": "1",
+    "properties": {
+      "category": "1",
+      "phase": "s-block",
+      "state": "132.91",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[bo]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 1 category and is typically found in s-block phase under standard conditions. It is considered a 132.91, and its atomic mass is approximately [bo]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Barium",
+    "symbol": "Ba",
+    "atomicNumber": "56",
+    "atomicMass": "[bp]",
+    "description": "Barium (Ba) is an element with atomic number 56. It belongs to the 2 category.",
+    "reactive": "non-reactive",
+    "category": "2",
+    "properties": {
+      "category": "2",
+      "phase": "s-block",
+      "state": "137.33",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[bp]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 2 category and is typically found in s-block phase under standard conditions. It is considered a 137.33, and its atomic mass is approximately [bp]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Lanthanum",
+    "symbol": "La",
+    "atomicNumber": "57",
+    "atomicMass": "[bq]",
+    "description": "Lanthanum (La) is an element with atomic number 57. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "138.91",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[bq]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a 138.91, and its atomic mass is approximately [bq]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/12067474/pexels-photo-12067474.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Cerium",
+    "symbol": "Ce",
+    "atomicNumber": "58",
+    "atomicMass": "[br]",
+    "description": "Cerium (Ce) is an element with atomic number 58. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "140.12",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[br]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a 140.12, and its atomic mass is approximately [br]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Praseodymium",
+    "symbol": "Pr",
+    "atomicNumber": "59",
+    "atomicMass": "[bs]",
+    "description": "Praseodymium (Pr) is an element with atomic number 59. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "140.91",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[bs]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a 140.91, and its atomic mass is approximately [bs]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Neodymium",
+    "symbol": "Nd",
+    "atomicNumber": "60",
+    "atomicMass": "[bt]",
+    "description": "Neodymium (Nd) is an element with atomic number 60. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "144.24",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[bt]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a 144.24, and its atomic mass is approximately [bt]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Promethium",
+    "symbol": "Pm",
+    "atomicNumber": "61",
+    "atomicMass": "[bu]",
+    "description": "Promethium (Pm) is an element with atomic number 61. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "[145]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[bu]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a [145], and its atomic mass is approximately [bu]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Samarium",
+    "symbol": "Sm",
+    "atomicNumber": "62",
+    "atomicMass": "[bv]",
+    "description": "Samarium (Sm) is an element with atomic number 62. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "150.36",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[bv]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a 150.36, and its atomic mass is approximately [bv]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Europium",
+    "symbol": "Eu",
+    "atomicNumber": "63",
+    "atomicMass": "[bw]",
+    "description": "Europium (Eu) is an element with atomic number 63. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "151.96",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[bw]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a 151.96, and its atomic mass is approximately [bw]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/2909255/pexels-photo-2909255.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Gadolinium",
+    "symbol": "Gd",
+    "atomicNumber": "64",
+    "atomicMass": "[bx]",
+    "description": "Gadolinium (Gd) is an element with atomic number 64. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "157.25",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[bx]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a 157.25, and its atomic mass is approximately [bx]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Terbium",
+    "symbol": "Tb",
+    "atomicNumber": "65",
+    "atomicMass": "[by]",
+    "description": "Terbium (Tb) is an element with atomic number 65. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "158.93",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[by]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a 158.93, and its atomic mass is approximately [by]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Dysprosium",
+    "symbol": "Dy",
+    "atomicNumber": "66",
+    "atomicMass": "[bz]",
+    "description": "Dysprosium (Dy) is an element with atomic number 66. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "162.50",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[bz]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a 162.50, and its atomic mass is approximately [bz]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Holmium",
+    "symbol": "Ho",
+    "atomicNumber": "67",
+    "atomicMass": "[ca]",
+    "description": "Holmium (Ho) is an element with atomic number 67. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "164.93",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[ca]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a 164.93, and its atomic mass is approximately [ca]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Erbium",
+    "symbol": "Er",
+    "atomicNumber": "68",
+    "atomicMass": "[cb]",
+    "description": "Erbium (Er) is an element with atomic number 68. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "167.26",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[cb]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a 167.26, and its atomic mass is approximately [cb]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Thulium",
+    "symbol": "Tm",
+    "atomicNumber": "69",
+    "atomicMass": "[cc]",
+    "description": "Thulium (Tm) is an element with atomic number 69. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "168.93",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[cc]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a 168.93, and its atomic mass is approximately [cc]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Ytterbium",
+    "symbol": "Yb",
+    "atomicNumber": "70",
+    "atomicMass": "[cd]",
+    "description": "Ytterbium (Yb) is an element with atomic number 70. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "173.05",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[cd]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a 173.05, and its atomic mass is approximately [cd]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Lutetium",
+    "symbol": "Lu",
+    "atomicNumber": "71",
+    "atomicMass": "[ce]",
+    "description": "Lutetium (Lu) is an element with atomic number 71. It belongs to the 3 category.",
+    "reactive": "non-reactive",
+    "category": "3",
+    "properties": {
+      "category": "3",
+      "phase": "d-block",
+      "state": "174.97",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[ce]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 3 category and is typically found in d-block phase under standard conditions. It is considered a 174.97, and its atomic mass is approximately [ce]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Hafnium",
+    "symbol": "Hf",
+    "atomicNumber": "72",
+    "atomicMass": "[cf]",
+    "description": "Hafnium (Hf) is an element with atomic number 72. It belongs to the 4 category.",
+    "reactive": "non-reactive",
+    "category": "4",
+    "properties": {
+      "category": "4",
+      "phase": "d-block",
+      "state": "178.49",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[cf]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 4 category and is typically found in d-block phase under standard conditions. It is considered a 178.49, and its atomic mass is approximately [cf]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Tantalum",
+    "symbol": "Ta",
+    "atomicNumber": "73",
+    "atomicMass": "[cg]",
+    "description": "Tantalum (Ta) is an element with atomic number 73. It belongs to the 5 category.",
+    "reactive": "non-reactive",
+    "category": "5",
+    "properties": {
+      "category": "5",
+      "phase": "d-block",
+      "state": "180.95",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[cg]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 5 category and is typically found in d-block phase under standard conditions. It is considered a 180.95, and its atomic mass is approximately [cg]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Tungsten",
+    "symbol": "W",
+    "atomicNumber": "74",
+    "atomicMass": "[ch]",
+    "description": "Tungsten (W) is an element with atomic number 74. It belongs to the 6 category.",
+    "reactive": "non-reactive",
+    "category": "6",
+    "properties": {
+      "category": "6",
+      "phase": "d-block",
+      "state": "183.84",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[ch]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 6 category and is typically found in d-block phase under standard conditions. It is considered a 183.84, and its atomic mass is approximately [ch]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/266688/pexels-photo-266688.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Rhenium",
+    "symbol": "Re",
+    "atomicNumber": "75",
+    "atomicMass": "[ci]",
+    "description": "Rhenium (Re) is an element with atomic number 75. It belongs to the 7 category.",
+    "reactive": "non-reactive",
+    "category": "7",
+    "properties": {
+      "category": "7",
+      "phase": "d-block",
+      "state": "186.21",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[ci]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 7 category and is typically found in d-block phase under standard conditions. It is considered a 186.21, and its atomic mass is approximately [ci]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Osmium",
+    "symbol": "Os",
+    "atomicNumber": "76",
+    "atomicMass": "[cj]",
+    "description": "Osmium (Os) is an element with atomic number 76. It belongs to the 8 category.",
+    "reactive": "non-reactive",
+    "category": "8",
+    "properties": {
+      "category": "8",
+      "phase": "d-block",
+      "state": "190.23",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[cj]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 8 category and is typically found in d-block phase under standard conditions. It is considered a 190.23, and its atomic mass is approximately [cj]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Iridium",
+    "symbol": "Ir",
+    "atomicNumber": "77",
+    "atomicMass": "[ck]",
+    "description": "Iridium (Ir) is an element with atomic number 77. It belongs to the 9 category.",
+    "reactive": "non-reactive",
+    "category": "9",
+    "properties": {
+      "category": "9",
+      "phase": "d-block",
+      "state": "192.22",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[ck]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 9 category and is typically found in d-block phase under standard conditions. It is considered a 192.22, and its atomic mass is approximately [ck]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Platinum",
+    "symbol": "Pt",
+    "atomicNumber": "78",
+    "atomicMass": "[cl]",
+    "description": "Platinum (Pt) is an element with atomic number 78. It belongs to the 10 category.",
+    "reactive": "non-reactive",
+    "category": "10",
+    "properties": {
+      "category": "10",
+      "phase": "d-block",
+      "state": "195.08",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[cl]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 10 category and is typically found in d-block phase under standard conditions. It is considered a 195.08, and its atomic mass is approximately [cl]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/750148/pexels-photo-750148.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Gold",
+    "symbol": "Au",
+    "atomicNumber": "79",
+    "atomicMass": "[cm]",
+    "description": "Gold (Au) is an element with atomic number 79. It belongs to the 11 category.",
+    "reactive": "non-reactive",
+    "category": "11",
+    "properties": {
+      "category": "11",
+      "phase": "d-block",
+      "state": "196.97",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[cm]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 11 category and is typically found in d-block phase under standard conditions. It is considered a 196.97, and its atomic mass is approximately [cm]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/47047/gold-ingots-golden-treasure-47047.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Mercury",
+    "symbol": "Hg",
+    "atomicNumber": "80",
+    "atomicMass": "[cn]",
+    "description": "Mercury (Hg) is an element with atomic number 80. It belongs to the 12 category.",
+    "reactive": "non-reactive",
+    "category": "12",
+    "properties": {
+      "category": "12",
+      "phase": "d-block",
+      "state": "200.59",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[cn]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 12 category and is typically found in d-block phase under standard conditions. It is considered a 200.59, and its atomic mass is approximately [cn]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/7666390/pexels-photo-7666390.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Thallium",
+    "symbol": "Tl",
+    "atomicNumber": "81",
+    "atomicMass": "[co]",
+    "description": "Thallium (Tl) is an element with atomic number 81. It belongs to the 13 category.",
+    "reactive": "non-reactive",
+    "category": "13",
+    "properties": {
+      "category": "13",
+      "phase": "p-block",
+      "state": "204.38",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[co]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 13 category and is typically found in p-block phase under standard conditions. It is considered a 204.38, and its atomic mass is approximately [co]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Lead",
+    "symbol": "Pb",
+    "atomicNumber": "82",
+    "atomicMass": "[cp]",
+    "description": "Lead (Pb) is an element with atomic number 82. It belongs to the 14 category.",
+    "reactive": "non-reactive",
+    "category": "14",
+    "properties": {
+      "category": "14",
+      "phase": "p-block",
+      "state": "207.2",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[cp]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 14 category and is typically found in p-block phase under standard conditions. It is considered a 207.2, and its atomic mass is approximately [cp]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/66100/pexels-photo-66100.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Bismuth",
+    "symbol": "Bi",
+    "atomicNumber": "83",
+    "atomicMass": "[cq]",
+    "description": "Bismuth (Bi) is an element with atomic number 83. It belongs to the 15 category.",
+    "reactive": "non-reactive",
+    "category": "15",
+    "properties": {
+      "category": "15",
+      "phase": "p-block",
+      "state": "208.98",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[cq]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 15 category and is typically found in p-block phase under standard conditions. It is considered a 208.98, and its atomic mass is approximately [cq]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Polonium",
+    "symbol": "Po",
+    "atomicNumber": "84",
+    "atomicMass": "[cr]",
+    "description": "Polonium (Po) is an element with atomic number 84. It belongs to the 16 category.",
+    "reactive": "non-reactive",
+    "category": "16",
+    "properties": {
+      "category": "16",
+      "phase": "p-block",
+      "state": "[209][a]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[cr]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 16 category and is typically found in p-block phase under standard conditions. It is considered a [209][a], and its atomic mass is approximately [cr]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Astatine",
+    "symbol": "At",
+    "atomicNumber": "85",
+    "atomicMass": "[cs]",
+    "description": "Astatine (At) is an element with atomic number 85. It belongs to the 17 category.",
+    "reactive": "non-reactive",
+    "category": "17",
+    "properties": {
+      "category": "17",
+      "phase": "p-block",
+      "state": "[210]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[cs]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 17 category and is typically found in p-block phase under standard conditions. It is considered a [210], and its atomic mass is approximately [cs]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Radon",
+    "symbol": "Rn",
+    "atomicNumber": "86",
+    "atomicMass": "[ct]",
+    "description": "Radon (Rn) is an element with atomic number 86. It belongs to the 18 category.",
+    "reactive": "non-reactive",
+    "category": "18",
+    "properties": {
+      "category": "18",
+      "phase": "p-block",
+      "state": "[222]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[ct]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 18 category and is typically found in p-block phase under standard conditions. It is considered a [222], and its atomic mass is approximately [ct]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/10404822/pexels-photo-10404822.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Francium",
+    "symbol": "Fr",
+    "atomicNumber": "87",
+    "atomicMass": "[cu]",
+    "description": "Francium (Fr) is an element with atomic number 87. It belongs to the 1 category.",
+    "reactive": "non-reactive",
+    "category": "1",
+    "properties": {
+      "category": "1",
+      "phase": "s-block",
+      "state": "[223]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[cu]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 1 category and is typically found in s-block phase under standard conditions. It is considered a [223], and its atomic mass is approximately [cu]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Radium",
+    "symbol": "Ra",
+    "atomicNumber": "88",
+    "atomicMass": "[cv]",
+    "description": "Radium (Ra) is an element with atomic number 88. It belongs to the 2 category.",
+    "reactive": "non-reactive",
+    "category": "2",
+    "properties": {
+      "category": "2",
+      "phase": "s-block",
+      "state": "[226]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[cv]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 2 category and is typically found in s-block phase under standard conditions. It is considered a [226], and its atomic mass is approximately [cv]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/14356535/pexels-photo-14356535.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Actinium",
+    "symbol": "Ac",
+    "atomicNumber": "89",
+    "atomicMass": "[cw]",
+    "description": "Actinium (Ac) is an element with atomic number 89. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "[227]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[cw]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a [227], and its atomic mass is approximately [cw]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Thorium",
+    "symbol": "Th",
+    "atomicNumber": "90",
+    "atomicMass": "[cx]",
+    "description": "Thorium (Th) is an element with atomic number 90. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "232.04",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[cx]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a 232.04, and its atomic mass is approximately [cx]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Protactinium",
+    "symbol": "Pa",
+    "atomicNumber": "91",
+    "atomicMass": "[cy]",
+    "description": "Protactinium (Pa) is an element with atomic number 91. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "231.04",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[cy]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a 231.04, and its atomic mass is approximately [cy]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Uranium",
+    "symbol": "U",
+    "atomicNumber": "92",
+    "atomicMass": "[cz]",
+    "description": "Uranium (U) is an element with atomic number 92. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "238.03",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[cz]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a 238.03, and its atomic mass is approximately [cz]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/1411419/pexels-photo-1411419.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Neptunium",
+    "symbol": "Np",
+    "atomicNumber": "93",
+    "atomicMass": "[da]",
+    "description": "Neptunium (Np) is an element with atomic number 93. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "[237]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[da]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a [237], and its atomic mass is approximately [da]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/20376394/pexels-photo-20376394.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Plutonium",
+    "symbol": "Pu",
+    "atomicNumber": "94",
+    "atomicMass": "[db]",
+    "description": "Plutonium (Pu) is an element with atomic number 94. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "[244]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[db]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a [244], and its atomic mass is approximately [db]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Americium",
+    "symbol": "Am",
+    "atomicNumber": "95",
+    "atomicMass": "[dc]",
+    "description": "Americium (Am) is an element with atomic number 95. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "[243]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[dc]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a [243], and its atomic mass is approximately [dc]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/10816426/pexels-photo-10816426.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Curium",
+    "symbol": "Cm",
+    "atomicNumber": "96",
+    "atomicMass": "[dd]",
+    "description": "Curium (Cm) is an element with atomic number 96. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "[247]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[dd]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a [247], and its atomic mass is approximately [dd]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Berkelium",
+    "symbol": "Bk",
+    "atomicNumber": "97",
+    "atomicMass": "[de]",
+    "description": "Berkelium (Bk) is an element with atomic number 97. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "[247]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[de]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a [247], and its atomic mass is approximately [de]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Californium",
+    "symbol": "Cf",
+    "atomicNumber": "98",
+    "atomicMass": "[df]",
+    "description": "Californium (Cf) is an element with atomic number 98. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "[251]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[df]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a [251], and its atomic mass is approximately [df]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Einsteinium",
+    "symbol": "Es",
+    "atomicNumber": "99",
+    "atomicMass": "[dg]",
+    "description": "Einsteinium (Es) is an element with atomic number 99. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "[252]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[dg]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a [252], and its atomic mass is approximately [dg]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Fermium",
+    "symbol": "Fm",
+    "atomicNumber": "100",
+    "atomicMass": "[dh]",
+    "description": "Fermium (Fm) is an element with atomic number 100. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "[257]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[dh]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a [257], and its atomic mass is approximately [dh]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Mendelevium",
+    "symbol": "Md",
+    "atomicNumber": "101",
+    "atomicMass": "[di]",
+    "description": "Mendelevium (Md) is an element with atomic number 101. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "[258]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[di]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a [258], and its atomic mass is approximately [di]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Nobelium",
+    "symbol": "No",
+    "atomicNumber": "102",
+    "atomicMass": "[dj]",
+    "description": "Nobelium (No) is an element with atomic number 102. It belongs to the f-block groups category.",
+    "reactive": "non-reactive",
+    "category": "f-block groups",
+    "properties": {
+      "category": "f-block groups",
+      "phase": "f-block",
+      "state": "[259]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[dj]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the f-block groups category and is typically found in f-block phase under standard conditions. It is considered a [259], and its atomic mass is approximately [dj]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/10432744/pexels-photo-10432744.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Lawrencium",
+    "symbol": "Lr",
+    "atomicNumber": "103",
+    "atomicMass": "[dk]",
+    "description": "Lawrencium (Lr) is an element with atomic number 103. It belongs to the 3 category.",
+    "reactive": "non-reactive",
+    "category": "3",
+    "properties": {
+      "category": "3",
+      "phase": "d-block",
+      "state": "[266]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[dk]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 3 category and is typically found in d-block phase under standard conditions. It is considered a [266], and its atomic mass is approximately [dk]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Rutherfordium",
+    "symbol": "Rf",
+    "atomicNumber": "104",
+    "atomicMass": "[dl]",
+    "description": "Rutherfordium (Rf) is an element with atomic number 104. It belongs to the 4 category.",
+    "reactive": "non-reactive",
+    "category": "4",
+    "properties": {
+      "category": "4",
+      "phase": "d-block",
+      "state": "[267]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[dl]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 4 category and is typically found in d-block phase under standard conditions. It is considered a [267], and its atomic mass is approximately [dl]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Dubnium",
+    "symbol": "Db",
+    "atomicNumber": "105",
+    "atomicMass": "[dm]",
+    "description": "Dubnium (Db) is an element with atomic number 105. It belongs to the 5 category.",
+    "reactive": "non-reactive",
+    "category": "5",
+    "properties": {
+      "category": "5",
+      "phase": "d-block",
+      "state": "[268]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[dm]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 5 category and is typically found in d-block phase under standard conditions. It is considered a [268], and its atomic mass is approximately [dm]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Seaborgium",
+    "symbol": "Sg",
+    "atomicNumber": "106",
+    "atomicMass": "[dn]",
+    "description": "Seaborgium (Sg) is an element with atomic number 106. It belongs to the 6 category.",
+    "reactive": "non-reactive",
+    "category": "6",
+    "properties": {
+      "category": "6",
+      "phase": "d-block",
+      "state": "[267]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[dn]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 6 category and is typically found in d-block phase under standard conditions. It is considered a [267], and its atomic mass is approximately [dn]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": "https://images.pexels.com/photos/4732/sea-houses-harbor-harbour.jpg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name": "Bohrium",
+    "symbol": "Bh",
+    "atomicNumber": "107",
+    "atomicMass": "[do]",
+    "description": "Bohrium (Bh) is an element with atomic number 107. It belongs to the 7 category.",
+    "reactive": "non-reactive",
+    "category": "7",
+    "properties": {
+      "category": "7",
+      "phase": "d-block",
+      "state": "[270]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[do]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 7 category and is typically found in d-block phase under standard conditions. It is considered a [270], and its atomic mass is approximately [do]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Hassium",
+    "symbol": "Hs",
+    "atomicNumber": "108",
+    "atomicMass": "[dp]",
+    "description": "Hassium (Hs) is an element with atomic number 108. It belongs to the 8 category.",
+    "reactive": "non-reactive",
+    "category": "8",
+    "properties": {
+      "category": "8",
+      "phase": "d-block",
+      "state": "[271]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[dp]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 8 category and is typically found in d-block phase under standard conditions. It is considered a [271], and its atomic mass is approximately [dp]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Meitnerium",
+    "symbol": "Mt",
+    "atomicNumber": "109",
+    "atomicMass": "[dq]",
+    "description": "Meitnerium (Mt) is an element with atomic number 109. It belongs to the 9 category.",
+    "reactive": "non-reactive",
+    "category": "9",
+    "properties": {
+      "category": "9",
+      "phase": "d-block",
+      "state": "[278]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[dq]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 9 category and is typically found in d-block phase under standard conditions. It is considered a [278], and its atomic mass is approximately [dq]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Darmstadtium",
+    "symbol": "Ds",
+    "atomicNumber": "110",
+    "atomicMass": "[dr]",
+    "description": "Darmstadtium (Ds) is an element with atomic number 110. It belongs to the 10 category.",
+    "reactive": "non-reactive",
+    "category": "10",
+    "properties": {
+      "category": "10",
+      "phase": "d-block",
+      "state": "[281]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[dr]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 10 category and is typically found in d-block phase under standard conditions. It is considered a [281], and its atomic mass is approximately [dr]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Roentgenium",
+    "symbol": "Rg",
+    "atomicNumber": "111",
+    "atomicMass": "[ds]",
+    "description": "Roentgenium (Rg) is an element with atomic number 111. It belongs to the 11 category.",
+    "reactive": "non-reactive",
+    "category": "11",
+    "properties": {
+      "category": "11",
+      "phase": "d-block",
+      "state": "[282]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[ds]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 11 category and is typically found in d-block phase under standard conditions. It is considered a [282], and its atomic mass is approximately [ds]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Copernicium",
+    "symbol": "Cn",
+    "atomicNumber": "112",
+    "atomicMass": "[dt]",
+    "description": "Copernicium (Cn) is an element with atomic number 112. It belongs to the 12 category.",
+    "reactive": "non-reactive",
+    "category": "12",
+    "properties": {
+      "category": "12",
+      "phase": "d-block",
+      "state": "[285]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[dt]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 12 category and is typically found in d-block phase under standard conditions. It is considered a [285], and its atomic mass is approximately [dt]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Nihonium",
+    "symbol": "Nh",
+    "atomicNumber": "113",
+    "atomicMass": "[du]",
+    "description": "Nihonium (Nh) is an element with atomic number 113. It belongs to the 13 category.",
+    "reactive": "non-reactive",
+    "category": "13",
+    "properties": {
+      "category": "13",
+      "phase": "p-block",
+      "state": "[286]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[du]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 13 category and is typically found in p-block phase under standard conditions. It is considered a [286], and its atomic mass is approximately [du]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Flerovium",
+    "symbol": "Fl",
+    "atomicNumber": "114",
+    "atomicMass": "[dv]",
+    "description": "Flerovium (Fl) is an element with atomic number 114. It belongs to the 14 category.",
+    "reactive": "non-reactive",
+    "category": "14",
+    "properties": {
+      "category": "14",
+      "phase": "p-block",
+      "state": "[289]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[dv]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 14 category and is typically found in p-block phase under standard conditions. It is considered a [289], and its atomic mass is approximately [dv]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Moscovium",
+    "symbol": "Mc",
+    "atomicNumber": "115",
+    "atomicMass": "[dw]",
+    "description": "Moscovium (Mc) is an element with atomic number 115. It belongs to the 15 category.",
+    "reactive": "non-reactive",
+    "category": "15",
+    "properties": {
+      "category": "15",
+      "phase": "p-block",
+      "state": "[290]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[dw]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 15 category and is typically found in p-block phase under standard conditions. It is considered a [290], and its atomic mass is approximately [dw]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Livermorium",
+    "symbol": "Lv",
+    "atomicNumber": "116",
+    "atomicMass": "[dx]",
+    "description": "Livermorium (Lv) is an element with atomic number 116. It belongs to the 16 category.",
+    "reactive": "non-reactive",
+    "category": "16",
+    "properties": {
+      "category": "16",
+      "phase": "p-block",
+      "state": "[293]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[dx]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 16 category and is typically found in p-block phase under standard conditions. It is considered a [293], and its atomic mass is approximately [dx]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Tennessine",
+    "symbol": "Ts",
+    "atomicNumber": "117",
+    "atomicMass": "[dy]",
+    "description": "Tennessine (Ts) is an element with atomic number 117. It belongs to the 17 category.",
+    "reactive": "non-reactive",
+    "category": "17",
+    "properties": {
+      "category": "17",
+      "phase": "p-block",
+      "state": "[294]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[dy]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 17 category and is typically found in p-block phase under standard conditions. It is considered a [294], and its atomic mass is approximately [dy]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  },
+  {
+    "name": "Oganesson",
+    "symbol": "Og",
+    "atomicNumber": "118",
+    "atomicMass": "[dz]",
+    "description": "Oganesson (Og) is an element with atomic number 118. It belongs to the 18 category.",
+    "reactive": "non-reactive",
+    "category": "18",
+    "properties": {
+      "category": "18",
+      "phase": "p-block",
+      "state": "[294]",
+      "reactivity": "non-reactive",
+      "atomic_mass": "[dz]"
+    },
+    "property-desc": "This element has unique physical and chemical properties that define its behavior. It belongs to the 18 category and is typically found in p-block phase under standard conditions. It is considered a [294], and its atomic mass is approximately [dz]. The element is non-reactive reactive in nature, influencing its interactions with other substances.",
+    "image": null
+  }
+]
